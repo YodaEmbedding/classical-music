@@ -86,19 +86,32 @@ Beethoven       Symphony No. 9 in D minor, Op. 125
 
 # Listened:
 
+Albinoni        Adagio in G minor
 Bach            English Suites, BWV 806-811
 Bach            Goldberg Variations, BWV 988
+Bach            Violin Partita No. 3 in E major, BWV 1006
 Beethoven       Piano Sonatas
 Beethoven       Symphony No. 5 in C minor, Op. 67, "Schicksals/Fate"
 Beethoven       Symphony No. 9 in D minor, Op. 125
 Beethoven       Triple Concerto in C major, Op. 56
+Beethoven       Violin Concerto in D major, Op. 61
+Brahms          Violin Concerto in D major, Op. 77
+Bruch           Violin Concerto No. 1 in G minor, Op. 26
 Bruckner        Symphony No. 7 in E major, WAB 107
 Bruckner        Symphony No. 9 in D minor, WAB 109
+Glazunov        Violin Concerto in A minor, Op. 82
 Khatchaturian   Violin Concerto in D minor, Op. 46
+Liszt           Piano Concerto No. 2 in A major, S. 125
+Mendelssohn     Violin Concerto in E minor, Op. 64
+Mozart          Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
 Mozart          Sinfonia concertante, K. 364
 Mozart          Violin Concerto No. 1 in B-flat major, K. 207
 Mozart          Violin Concerto No. 2 in D major, K. 211
 Mozart          Violin Concerto No. 4 in D major, K. 218
+Mozart          Violin Concerto No. 5 in A major, K. 219, "The Turkish"
+Mozart          Violin Sonata No. 18 in G major, K. 301
+Mozart          Violin Sonata No. 24 in F major, K. 376
+Paganini        Caprice No. 24 in A minor
 Prokofiev       Violin Concerto No. 1 in D major, Op. 19
 Schnittke       Concerto grosso No. 5
 Schnittke       Concerto grosso No. 6
@@ -112,6 +125,12 @@ Schoenberg      String Quartet No. 4, Op. 37
 Schoenberg      Verklarte Nacht, Op. 4
 Schubert        String Quintet in C, D. 956
 Schubert        Symphony No. 3 in D, D. 200
+Schubert        Symphony No. 8 in B minor, D. 759, "Unfinished"
 Shostakovich    Three Violin Duets, Op. 97d
+Shostakovich    Violin Concerto No. 1 in A minor, Op. 77
+Sibelius        Violin Concerto in D minor, Op. 47
 Szymanowski     Violin Concerto No. 1, Op. 35
+Tchaikovsky     Swan Lake, Op. 20
+Tchaikovsky     Violin Concerto in D major, Op. 35
 Vivaldi         The Four Seasons
+Williams        The Lark Ascending
