@@ -14,10 +14,11 @@ Williams        The Lark Ascending
 Brahms          Violin Concerto in D major, Op. 77
 Liszt           Piano Concerto No. 2 in A major, S. 125
 Shostakovich    Violin Concerto No. 1 in A minor, Op. 77
-Mozart          Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
 Tchaikovsky     Violin Concerto in D major, Op. 35
-Mozart          Violin Concerto No. 5 in A major, K. 219, "The Turkish"
+Glazunov        Violin Concerto in A minor, Op. 82
 Beethoven       Violin Concerto in D major, Op. 61
+Mozart          Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
+Mozart          Violin Concerto No. 5 in A major, K. 219, "The Turkish"
 
 # Hahn:
 
@@ -70,7 +71,7 @@ Mahler          Symphony No. 5
 Mendelssohn     Violin Concerto in D minor, MWV O3
 Mozart          Violin Concerto No. 3 in G major, K. 216
 Paganini        Violin Concerto No. 2 in B minor, Op. 7, "La campanella"
-Prokofiev       Violin Concerto No. 1 in D major, Op. 19
+Prokofiev       Violin Concerto No. 2 in G minor, Op. 63
 Saint-Saëns     Introduction and Rondo Capriccioso in A minor, Op. 28
 Saint-Saëns     Violin Concerto No. 3 in B minor, Op. 61
 Sarasate        Zigeunerweisen, Op. 20
@@ -83,13 +84,7 @@ Ysaÿe           Six Violin Sonatas, Op. 27
 Beethoven       Symphony No. 5 in C minor, Op. 67, "Schicksals/Fate"
 Beethoven       Symphony No. 9 in D minor, Op. 125
 
-# Sibelius recordings:
-
-Hahn, Heifetz
-Try Vengerov, ...?
-Menuhin, Ysaye, Oistrakh, ...
-
-# Unordered:
+# Listened:
 
 Bach            English Suites, BWV 806-811
 Bach            Goldberg Variations, BWV 988
@@ -99,14 +94,24 @@ Beethoven       Symphony No. 9 in D minor, Op. 125
 Beethoven       Triple Concerto in C major, Op. 56
 Bruckner        Symphony No. 7 in E major, WAB 107
 Bruckner        Symphony No. 9 in D minor, WAB 109
-Khatchaturian   Violin Concerto in D Minor
+Khatchaturian   Violin Concerto in D minor, Op. 46
+Mozart          Sinfonia concertante, K. 364
+Mozart          Violin Concerto No. 1 in B-flat major, K. 207
+Mozart          Violin Concerto No. 2 in D major, K. 211
+Mozart          Violin Concerto No. 4 in D major, K. 218
+Prokofiev       Violin Concerto No. 1 in D major, Op. 19
 Schnittke       Concerto grosso No. 5
 Schnittke       Concerto grosso No. 6
 Schnittke       Symphony No. 8
-Schoenberg      Pelleas und Melisande
-Schoenberg      Pierrot Lunaire
-Schoenberg      Streichquartette
+Schoenberg      Pelleas und Melisande, Op. 5
+Schoenberg      Pierrot Lunaire, Op. 21
+Schoenberg      String Quartet No. 1 in D minor, Op. 7
+Schoenberg      String Quartet No. 2 in F♯ minor, Op. 10
+Schoenberg      String Quartet No. 3, Op. 30
+Schoenberg      String Quartet No. 4, Op. 37
 Schoenberg      Verklarte Nacht, Op. 4
 Schubert        String Quintet in C, D. 956
 Schubert        Symphony No. 3 in D, D. 200
+Shostakovich    Three Violin Duets, Op. 97d
+Szymanowski     Violin Concerto No. 1, Op. 35
 Vivaldi         The Four Seasons
