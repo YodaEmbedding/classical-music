@@ -22,7 +22,14 @@ Bartók                  Rhapsody No. 2 for Violin and Orchestra, BB 96
 Bartók                  Violin Concerto No. 1, BB 48a
 Bartók                  Violin Concerto No. 2, BB 117
 Beethoven               Piano Sonatas
+Beethoven               Symphony No. 1 in C major, Op. 21
+Beethoven               Symphony No. 2 in D major, Op. 36
+Beethoven               Symphony No. 3 in Eb major, Op. 55, "Eroica/Heroic"
+Beethoven               Symphony No. 4 in Bb major, Op. 60
 Beethoven               Symphony No. 5 in C minor, Op. 67, "Schicksals/Fate"
+Beethoven               Symphony No. 6 in F major, Op. 68, "Pastoral"
+Beethoven               Symphony No. 7 in A major, Op. 92
+Beethoven               Symphony No. 8 in F major, Op. 93
 Beethoven               Symphony No. 9 in D minor, Op. 125
 Beethoven               Triple Concerto in C major, Op. 56
 Beethoven               Violin Concerto in D major, Op. 61
