@@ -9,7 +9,6 @@ Biber                   Rosary Sonatas, "Mystery Sonatas"
 Brahms                  Hungarian Dance No. 5
 Brahms                  Violin Sonata No. 3 in D minor, Op. 108
 Bruch                   Scottish Fantasy in E-flat major, Op. 46
-Dvorak                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
 Dvorak                  Violin Concerto in A minor, Op. 53, B. 108
 Glass                   Violin Concerto No. 1
 Holst                   The Planets
@@ -18,7 +17,6 @@ Mahler                  Symphony No. 5
 Mendelssohn             Violin Concerto in D minor, MWV O3
 Mozart                  Clarinet Concerto in A major, K. 622
 Mozart                  Violin Concerto No. 3 in G major, K. 216
-Mussorgsky              Pictures at an Exhibition
 Saint-Saëns             Introduction and Rondo Capriccioso in A minor, Op. 28
 Saint-Saëns             Violin Concerto No. 3 in B minor, Op. 61
 Sarasate                Zigeunerweisen, Op. 20
