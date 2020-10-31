@@ -59,6 +59,16 @@ Khatchaturian           Violin Concerto in D minor, Op. 46
 Liszt                   Piano Concerto No. 1 in E-flat major, S. 124
 Liszt                   Piano Concerto No. 2 in A major, S. 125
 Liszt                   Piano Sonata in B minor, S. 178
+Mahler                  Symphony No. 1 in D major
+Mahler                  Symphony No. 10
+Mahler                  Symphony No. 2, "Resurrection"
+Mahler                  Symphony No. 3
+Mahler                  Symphony No. 4 in G major
+Mahler                  Symphony No. 5
+Mahler                  Symphony No. 6 in A minor, "Tragic"
+Mahler                  Symphony No. 7, "Song of the Night"
+Mahler                  Symphony No. 8 in E-flat major, "Symphony of a Thousand"
+Mahler                  Symphony No. 9
 Martin                  Concerto for Seven Wind Intruments, Timpani, Percussion and Strings
 Martin                  Etudes
 Martin                  Polyptyque
