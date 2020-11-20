@@ -61,7 +61,12 @@ Brahms                  Violin Sonata No. 3 in D minor, Op. 108
 Bruch                   Violin Concerto No. 1 in G minor, Op. 26
 Bruckner                Symphony No. 7 in E major, WAB 107
 Bruckner                Symphony No. 9 in D minor, WAB 109
+Chopin                  Ballades, Opp. 23/38/47/52
+Chopin                  Nocturnes, Opp. 9/15/27/32/37/48/55/62/ph72/ph/ph
 Chopin                  Piano Sonata No. 3 in B minor, Op. 58
+Chopin                  Polonaises, Opp. 26/40/44/53/61
+Chopin                  Préludes, Opp. 28/45/ph
+Chopin                  Études, Opp. 10/25
 Copland                 Appalachian Spring
 Copland                 Billy the Kid
 Copland                 Rodeo
