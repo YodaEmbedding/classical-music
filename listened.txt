@@ -1,13 +1,20 @@
 Abril                   6 Violin Partitas
 Albinoni                Adagio in G minor
+Bach                    Brandenburg Concertos, BWV 1046-1051
+Bach                    Cello Suites, BWV 1007-1012
 Bach                    Concerto for Two Violins in D minor, BWV 1043
 Bach                    Concerto for Violin and Oboe in C minor, BWV 1060R
+Bach                    Die Kunst der Fuge, BWV 1080
 Bach                    Double Harpsichord Concerto in C minor, BWV 1060
 Bach                    Double Violin Concerto in D minor, BWV 1043
 Bach                    English Suites, BWV 806-811
 Bach                    Goldberg Variations, BWV 988
+Bach                    Mass in B minor, BWV 232
+Bach                    Orchestral Suites, BWV 1066-1069
+Bach                    Partita for Keyboard No. 2 in C minor, BWV 826
 Bach                    Sonata No. 3 in E major for Violin and Harpsichord, BWV 1016
 Bach                    Sonata No. 4 in C minor for Violin and Harpsichord, BWV 1017
+Bach                    Toccata in C minor, BWV 911
 Bach                    Violin Concerto in A minor, BWV 1041
 Bach                    Violin Concerto in E major, BWV 1042
 Bach                    Violin Partita No. 1 in B minor, BWV 1002
