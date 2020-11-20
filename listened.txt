@@ -26,9 +26,17 @@ Bach                    Violin Sonata No. 3 in C major, BWV 1005
 Barber                  Violin Concerto, Op. 14
 Bartók                  Rhapsody No. 1 for Violin and Orchestra, BB 94
 Bartók                  Rhapsody No. 2 for Violin and Orchestra, BB 96
+Bartók                  String Quartets Nos. 1-6, BB 52/75/93/95/110/119
 Bartók                  Violin Concerto No. 1, BB 48a
 Bartók                  Violin Concerto No. 2, BB 117
 Beethoven               Piano Sonatas
+Beethoven               Piano Trio No. 1 in E flat major, Op. 1/1
+Beethoven               Piano Trio No. 2 in G major, Op. 1/2
+Beethoven               Piano Trio No. 3 in C minor, Op. 1/3
+Beethoven               Piano Trio No. 5 in D major, Op. 70/1, "Ghost"
+Beethoven               Piano Trio No. 6 in E flat major, Op. 70/2
+Beethoven               Piano Trio No. 7 in B flat major, Op. 97, "Archduke"
+Beethoven               String Quartets Nos. 11, 12, 13, 14, 15, 16
 Beethoven               Symphony No. 1 in C major, Op. 21
 Beethoven               Symphony No. 2 in D major, Op. 36
 Beethoven               Symphony No. 3 in Eb major, Op. 55, "Eroica/Heroic"
@@ -70,17 +78,26 @@ Chopin                  Études, Opp. 10/25
 Copland                 Appalachian Spring
 Copland                 Billy the Kid
 Copland                 Rodeo
+Corelli                 Concerti grossi, Op. 6
+Dvorak                  Cello Concerto in B minor, Op. 104
 Dvorak                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
 Elgar                   Cello Concerto in E minor, Op. 85
 Elgar                   Sea Pictures, Op. 37
 Elgar                   Violin Concerto in B minor, Op. 61
 Glazunov                Violin Concerto in A minor, Op. 82
 Higdon                  Violin Concerto
-Ives                    Violin Sonata No. 1
-Ives                    Violin Sonata No. 2
-Ives                    Violin Sonata No. 3
-Ives                    Violin Sonata No. 4, "Children's Day at the Camp Meeting"
+Holmboe                 Symphony No. 1 for Chamber Orchestra, Op. 4
+Holmboe                 Symphony No. 10, Op. 105
+Holmboe                 Symphony No. 3, "Sinfonia rustica", Op. 25
+Händel                  Concerti grossi, Op. 6
+Ives                    Violin Sonata No. 1, S. 60 / K. 2C4
+Ives                    Violin Sonata No. 2, S. 61 / K. 2C5
+Ives                    Violin Sonata No. 3, S. 62 / K. 2C6
+Ives                    Violin Sonata No. 4, S. 63 / K. 2C3, "Children's Day at the Camp Meeting"
 Khatchaturian           Violin Concerto in D minor, Op. 46
+Ligeti                  Cello Concerto
+Ligeti                  Piano Concerto
+Ligeti                  Violin Concerto
 Liszt                   Piano Concerto No. 1 in E-flat major, S. 124
 Liszt                   Piano Concerto No. 2 in A major, S. 125
 Liszt                   Piano Sonata in B minor, S. 178
@@ -101,7 +118,11 @@ Mendelssohn             Concerto for Piano, Violin and Strings in D minor, MWV O
 Mendelssohn             Violin Concerto in D minor, MWV O3
 Mendelssohn             Violin Concerto in E minor, Op. 64
 Meyer                   Violin Concerto
+Mozart                  Piano Concerto No. 20 in D minor, K. 466
 Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
+Mozart                  Piano Concerto No. 23 in A major, K. 488
+Mozart                  Piano Concerto No. 26 in D major, K. 537, "Coronation"
+Mozart                  Requiem, K. 626
 Mozart                  Sinfonia concertante, K. 364
 Mozart                  Violin Concerto No. 1 in B-flat major, K. 207
 Mozart                  Violin Concerto No. 2 in D major, K. 211
@@ -120,11 +141,15 @@ Prokofiev               Violin Concerto No. 1 in D major, Op. 19
 Prokofiev               Violin Concerto No. 2 in G minor, Op. 63
 Rachmaninoff            10 Preludes, Op. 23
 Rachmaninoff            13 Preludes, Op. 32
+Rachmaninoff            Piano Concerto No. 1 in F sharp minor, Op. 1
 Rachmaninoff            Piano Concerto No. 2 in C minor, Op. 18
+Rachmaninoff            Piano Concerto No. 3 in D minor, Op. 30
+Rachmaninoff            Piano Concerto No. 4 in G minor, Op. 40
 Rachmaninoff            Symphony No. 2 in E minor, Op. 27
 Ravel                   Piano Concerto in G major, M. 83
 Ravel                   Tzigane, M. 76, "Rhapsodie de concert"
 Ravel                   Valses nobles et sentimentales, M. 61
+Saint-Saëns             Cello Concerto No. 1 in A minor, Op. 33
 Schnittke               Concerto grosso No. 5
 Schnittke               Concerto grosso No. 6
 Schnittke               Symphony No. 8
@@ -141,9 +166,12 @@ Schoenberg              String Quartet No. 3, Op. 30
 Schoenberg              String Quartet No. 4, Op. 37
 Schoenberg              Verklarte Nacht, Op. 4
 Schoenberg              Violin Concerto, Op. 36
+Schubert                String Quartet No. 13 in A minor, D. 804
+Schubert                String Quartet No. 14 in D minor, D. 810
 Schubert                String Quintet in C, D. 956
 Schubert                Symphony No. 3 in D, D. 200
 Schubert                Symphony No. 8 in B minor, D. 759, "Unfinished"
+Schubert                Winterreise, D. 911
 Schumann                Kinderszenen, Op. 15
 Schumann                Kreisleriana, Op. 16
 Schumann                Piano Sonata No. 2 in G minor, Op. 22
@@ -152,6 +180,8 @@ Shostakovich            Violin Concerto No. 1 in A minor, Op. 77
 Sibelius                Karelia Suite, Op. 11
 Sibelius                Violin Concerto in D minor, Op. 47
 Spohr                   Violin Concerto No. 8 in A minor, Op. 47, "In modo di scena cantante"
+Strauss                 4 letzte Lieder, TrV 296, "Four Last Songs"
+Strauss                 5 Lieder, TrV 195
 Stravinsky              Violin Concerto in D major
 Szymanowski             Violin Concerto No. 1, Op. 35
 Tchaikovsky             Piano Concerto No. 1 in B flat minor, Op. 23
