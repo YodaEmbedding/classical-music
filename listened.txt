@@ -1,4 +1,6 @@
 Abril                   6 Violin Partitas
+Adams                   My Father Knew Charles Ives
+Adams                   The Dharma at Big Sur
 Albinoni                Adagio in G minor
 Bach                    Brandenburg Concertos, BWV 1046-1051
 Bach                    Cello Suites, BWV 1007-1012
@@ -29,6 +31,8 @@ Bartók                  Rhapsody No. 2 for Violin and Orchestra, BB 96
 Bartók                  String Quartets Nos. 1-6, BB 52/75/93/95/110/119
 Bartók                  Violin Concerto No. 1, BB 48a
 Bartók                  Violin Concerto No. 2, BB 117
+Beethoven               Piano Concerto No. 1 in C major, Op. 15
+Beethoven               Piano Concerto No. 2 in B flat major, Op. 19
 Beethoven               Piano Sonatas
 Beethoven               Piano Trio No. 1 in E flat major, Op. 1/1
 Beethoven               Piano Trio No. 2 in G major, Op. 1/2
@@ -48,8 +52,11 @@ Beethoven               Symphony No. 8 in F major, Op. 93
 Beethoven               Symphony No. 9 in D minor, Op. 125
 Beethoven               Triple Concerto in C major, Op. 56
 Beethoven               Violin Concerto in D major, Op. 61
+Beethoven               Violin Sonata No. 10 in G major, Op. 96
+Beethoven               Violin Sonata No. 9 in A major, Op. 47, "Kreutzer"
 Berg                    Violin Concerto, "To the memory of an angel"
 Bernstein               Serenade, after Plato's Symposium
+Boulez                  Sur incises
 Brahms                  2 Rhapsodies, Op. 79
 Brahms                  A German Requiem, Op. 45
 Brahms                  Ballades, Op. 10
@@ -71,6 +78,8 @@ Bruckner                Symphony No. 7 in E major, WAB 107
 Bruckner                Symphony No. 9 in D minor, WAB 109
 Chopin                  Ballades, Opp. 23/38/47/52
 Chopin                  Nocturnes, Opp. 9/15/27/32/37/48/55/62/ph72/ph/ph
+Chopin                  Piano Concerto No. 1 in E minor, Op. 11
+Chopin                  Piano Concerto No. 2 in F minor, Op. 21
 Chopin                  Piano Sonata No. 3 in B minor, Op. 58
 Chopin                  Polonaises, Opp. 26/40/44/53/61
 Chopin                  Préludes, Opp. 28/45/ph
@@ -79,12 +88,17 @@ Copland                 Appalachian Spring
 Copland                 Billy the Kid
 Copland                 Rodeo
 Corelli                 Concerti grossi, Op. 6
+Debussy                 Children's Corner, CD 119
+Debussy                 Images I, CD 105
+Debussy                 Images II, CD 120
 Dvorak                  Cello Concerto in B minor, Op. 104
 Dvorak                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
 Elgar                   Cello Concerto in E minor, Op. 85
 Elgar                   Sea Pictures, Op. 37
 Elgar                   Violin Concerto in B minor, Op. 61
 Glazunov                Violin Concerto in A minor, Op. 82
+Haydn                   Keyboard Concerto No. 11 in D major, Hob. XVIII:11
+Haydn                   Piano Concerto No. 1 in C minor, Op. 35
 Higdon                  Violin Concerto
 Holmboe                 Symphony No. 1 for Chamber Orchestra, Op. 4
 Holmboe                 Symphony No. 10, Op. 105
@@ -101,6 +115,7 @@ Ligeti                  Violin Concerto
 Liszt                   Piano Concerto No. 1 in E-flat major, S. 124
 Liszt                   Piano Concerto No. 2 in A major, S. 125
 Liszt                   Piano Sonata in B minor, S. 178
+Mahler                  Das Lied von der Erde, "The Song of the Earth"
 Mahler                  Symphony No. 1 in D major
 Mahler                  Symphony No. 10
 Mahler                  Symphony No. 2, "Resurrection"
@@ -117,6 +132,7 @@ Martin                  Polyptyque
 Mendelssohn             Concerto for Piano, Violin and Strings in D minor, MWV O4
 Mendelssohn             Violin Concerto in D minor, MWV O3
 Mendelssohn             Violin Concerto in E minor, Op. 64
+Messiaen                Quatuor pour la fin du temps
 Meyer                   Violin Concerto
 Mozart                  Piano Concerto No. 20 in D minor, K. 466
 Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
@@ -146,10 +162,18 @@ Rachmaninoff            Piano Concerto No. 2 in C minor, Op. 18
 Rachmaninoff            Piano Concerto No. 3 in D minor, Op. 30
 Rachmaninoff            Piano Concerto No. 4 in G minor, Op. 40
 Rachmaninoff            Symphony No. 2 in E minor, Op. 27
+Ravel                   Gaspard de la nuit, M. 55
 Ravel                   Piano Concerto in G major, M. 83
+Ravel                   Piano Concerto in G major, M. 83
+Ravel                   Sonatine, M. 40
 Ravel                   Tzigane, M. 76, "Rhapsodie de concert"
 Ravel                   Valses nobles et sentimentales, M. 61
 Saint-Saëns             Cello Concerto No. 1 in A minor, Op. 33
+Satie                   3 Gymnopédies
+Satie                   3 Sarabandes
+Satie                   4 Ogives
+Satie                   6 Gnossiennes
+Satie                   Je te veux
 Schnittke               Concerto grosso No. 5
 Schnittke               Concerto grosso No. 6
 Schnittke               Symphony No. 8
@@ -175,6 +199,9 @@ Schubert                Winterreise, D. 911
 Schumann                Kinderszenen, Op. 15
 Schumann                Kreisleriana, Op. 16
 Schumann                Piano Sonata No. 2 in G minor, Op. 22
+Schumann                Violin Sonata No. 1 in A minor, Op. 105
+Schumann                Violin Sonata No. 2 in D minor, Op. 121
+Shostakovich            Piano Concerto No. 1 in C minor, Op. 35
 Shostakovich            Three Violin Duets, Op. 97d
 Shostakovich            Violin Concerto No. 1 in A minor, Op. 77
 Sibelius                Karelia Suite, Op. 11
