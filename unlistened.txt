@@ -1,3 +1,4 @@
+Bach                    Oboe Concerto in G minor, BWV 1056
 Bach                    Violin Concerto in G minor, BWV 1056R
 Beach                   Violin Sonata, Op. 34
 Biber                   Rosary Sonatas, "Mystery Sonatas"
@@ -8,11 +9,9 @@ Glass                   Violin Concerto No. 1
 Holst                   The Planets
 Korngold                Violin Concerto in D major, Op. 35
 Mozart                  Clarinet Concerto in A major, K. 622
-Mozart                  Violin Concerto No. 3 in G major, K. 216
 Saint-Saëns             Introduction and Rondo Capriccioso in A minor, Op. 28
 Saint-Saëns             Violin Concerto No. 3 in B minor, Op. 61
 Sarasate                Zigeunerweisen, Op. 20
 Schumann                Three Romances for Violin and Piano, Op. 22
 Strauss                 Wiener Blut, Op. 354
-Stravinsky              The Rite of Spring, "Le Sacre du printemps"
 Ysaÿe                   Six Violin Sonatas, Op. 27
