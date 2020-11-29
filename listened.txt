@@ -12,12 +12,20 @@ Bach                    Double Violin Concerto in D minor, BWV 1043
 Bach                    English Suites, BWV 806-811
 Bach                    Goldberg Variations, BWV 988
 Bach                    Mass in B minor, BWV 232
+Bach                    Oboe Concerto in D minor, BWV 1059R
+Bach                    Oboe Concerto in F major, BWV 1053R
+Bach                    Oboe Concerto in G minor, BWV 1056R
+Bach                    Oboe d'amore Concerto in A major, BWV 1055R
 Bach                    Orchestral Suites, BWV 1066-1069
 Bach                    Partita for Keyboard No. 2 in C minor, BWV 826
+Bach                    Sinfonia in D major, BWV 1045
 Bach                    Sonata No. 3 in E major for Violin and Harpsichord, BWV 1016
 Bach                    Sonata No. 4 in C minor for Violin and Harpsichord, BWV 1017
 Bach                    Toccata in C minor, BWV 911
+Bach                    Trio Sonata for Organ No. 3 in D minor, BWV 527
+Bach                    Trio Sonata for Organ No. 5 in C major, BWV 529
 Bach                    Violin Concerto in A minor, BWV 1041
+Bach                    Violin Concerto in D minor, BWV 1052R
 Bach                    Violin Concerto in E major, BWV 1042
 Bach                    Violin Partita No. 1 in B minor, BWV 1002
 Bach                    Violin Partita No. 2 in D minor, BWV 1004
@@ -94,6 +102,7 @@ Corelli                 Concerti grossi, Op. 6
 Debussy                 Children's Corner, CD 119
 Debussy                 Images I, CD 105
 Debussy                 Images II, CD 120
+Debussy                 String Quartet in G minor, Op. 10, CD 91
 Dvorak                  Cello Concerto in B minor, Op. 104
 Dvorak                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
 Elgar                   Cello Concerto in E minor, Op. 85
@@ -179,6 +188,7 @@ Ravel                   Piano Concerto for the Left Hand, M. 82
 Ravel                   Piano Concerto in G major, M. 83
 Ravel                   Piano Concerto in G major, M. 83
 Ravel                   Sonatine, M. 40
+Ravel                   String Quartet in F major, M. 35
 Ravel                   Tzigane, M. 76, "Rhapsodie de concert"
 Ravel                   Valses nobles et sentimentales, M. 61
 Saint-Saëns             Cello Concerto No. 1 in A minor, Op. 33
@@ -231,5 +241,6 @@ Tchaikovsky             Piano Concerto No. 1 in B flat minor, Op. 23
 Tchaikovsky             Swan Lake, Op. 20
 Tchaikovsky             Violin Concerto in D major, Op. 35
 Vaughan-Williams        The Lark Ascending
+Verdi                   Messa da requiem
 Vieuxtemps              Violin Concerto No. 4 in D minor, Op. 31
 Vivaldi                 The Four Seasons
