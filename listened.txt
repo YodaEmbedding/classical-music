@@ -37,9 +37,12 @@ Barber                  Violin Concerto, Op. 14
 Bartók                  Piano Concerto No. 3, BB 127
 Bartók                  Rhapsody No. 1 for Violin and Orchestra, BB 94
 Bartók                  Rhapsody No. 2 for Violin and Orchestra, BB 96
+Bartók                  Sonata for Solo Violin, BB 124
+Bartók                  String Octet in C major, Op. 7
 Bartók                  String Quartets Nos. 1-6, BB 52/75/93/95/110/119
 Bartók                  Violin Concerto No. 1, BB 48a
 Bartók                  Violin Concerto No. 2, BB 117
+Beach                   Violin Sonata, Op. 34
 Beethoven               Piano Concerto No. 1 in C major, Op. 15
 Beethoven               Piano Concerto No. 2 in B flat major, Op. 19
 Beethoven               Piano Sonatas
@@ -82,6 +85,8 @@ Brahms                  Violin Concerto in D major, Op. 77
 Brahms                  Violin Sonata No. 1 in G major, Op. 78
 Brahms                  Violin Sonata No. 2 in A major, Op. 100
 Brahms                  Violin Sonata No. 3 in D minor, Op. 108
+Britten                 Violin Concerto, Op. 15
+Bruch                   Scottish Fantasy in E flat major, Op. 46
 Bruch                   Violin Concerto No. 1 in G minor, Op. 26
 Bruckner                Symphony No. 7 in E major, WAB 107
 Bruckner                Symphony No. 9 in D minor, WAB 109
@@ -104,11 +109,14 @@ Debussy                 Images I, CD 105
 Debussy                 Images II, CD 120
 Debussy                 String Quartet in G minor, Op. 10, CD 91
 Dvorak                  Cello Concerto in B minor, Op. 104
+Dvorak                  Romance for Violin and Orchestra in F minor, Op. 11, B. 39
 Dvorak                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
+Dvorak                  Violin Concerto in A minor, Op. 53, B. 108
 Elgar                   Cello Concerto in E minor, Op. 85
 Elgar                   Sea Pictures, Op. 37
 Elgar                   Violin Concerto in B minor, Op. 61
 Glazunov                Violin Concerto in A minor, Op. 82
+Grieg                   Violin Sonata No. 1 in F major, Op. 8
 Haydn                   Keyboard Concerto No. 11 in D major, Hob. XVIII:11
 Haydn                   Piano Concerto No. 1 in C minor, Op. 35
 Higdon                  Violin Concerto
@@ -121,6 +129,8 @@ Ives                    Violin Sonata No. 2, S. 61 / K. 2C5
 Ives                    Violin Sonata No. 3, S. 62 / K. 2C6
 Ives                    Violin Sonata No. 4, S. 63 / K. 2C3, "Children's Day at the Camp Meeting"
 Khatchaturian           Violin Concerto in D minor, Op. 46
+Korngold                Much Ado About Nothing Suite
+Korngold                Violin Concerto in D major, Op. 35
 Ligeti                  Cello Concerto
 Ligeti                  Piano Concerto
 Ligeti                  Violin Concerto
@@ -174,6 +184,7 @@ Prokofiev               Violin Concerto No. 1 in D major, Op. 19
 Prokofiev               Violin Concerto No. 2 in G minor, Op. 63
 Prokofiev               Violin Sonata No. 1 in F minor, Op. 80
 Prokofiev               Violin Sonata No. 2 in D major, Op. 94bis
+Pärt                    Tabula rasa
 Rachmaninoff            10 Preludes, Op. 23
 Rachmaninoff            13 Preludes, Op. 32
 Rachmaninoff            Piano Concerto No. 1 in F sharp minor, Op. 1
@@ -226,14 +237,17 @@ Schumann                Piano Concerto in A minor, Op. 54
 Schumann                Piano Sonata No. 2 in G minor, Op. 22
 Schumann                Violin Sonata No. 1 in A minor, Op. 105
 Schumann                Violin Sonata No. 2 in D minor, Op. 121
+Schumann, C.            Three Romances for Violin and Piano, Op. 22
 Shostakovich            Piano Concerto No. 1 in C minor, Op. 35
 Shostakovich            Three Violin Duets, Op. 97d
 Shostakovich            Violin Concerto No. 1 in A minor, Op. 77
 Sibelius                Karelia Suite, Op. 11
 Sibelius                Violin Concerto in D minor, Op. 47
+Smyth                   Violin Sonata, Op. 7
 Spohr                   Violin Concerto No. 8 in A minor, Op. 47, "In modo di scena cantante"
 Strauss                 4 letzte Lieder, TrV 296, "Four Last Songs"
 Strauss                 5 Lieder, TrV 195
+Strauss                 Violin Sonata in E flat major, Op. 18
 Stravinsky              The Rite of Spring, "Le Sacre du printemps"
 Stravinsky              Violin Concerto in D major
 Szymanowski             Violin Concerto No. 1, Op. 35
@@ -243,4 +257,5 @@ Tchaikovsky             Violin Concerto in D major, Op. 35
 Vaughan-Williams        The Lark Ascending
 Verdi                   Messa da requiem
 Vieuxtemps              Violin Concerto No. 4 in D minor, Op. 31
+Vieuxtemps              Violin Concerto No. 5 in A minor, Op. 37
 Vivaldi                 The Four Seasons
