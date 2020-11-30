@@ -133,7 +133,7 @@ Korngold                Violin Concerto in D major, Op. 35
 Ligeti                  Cello Concerto
 Ligeti                  Piano Concerto
 Ligeti                  Violin Concerto
-Liszt                   Piano Concerto No. 1 in E-flat major, S. 124
+Liszt                   Piano Concerto No. 1 in E flat major, S. 124
 Liszt                   Piano Concerto No. 2 in A major, S. 125
 Liszt                   Piano Sonata in B minor, S. 178
 Mahler                  Das Lied von der Erde, "The Song of the Earth"
@@ -145,7 +145,7 @@ Mahler                  Symphony No. 4 in G major
 Mahler                  Symphony No. 5
 Mahler                  Symphony No. 6 in A minor, "Tragic"
 Mahler                  Symphony No. 7, "Song of the Night"
-Mahler                  Symphony No. 8 in E-flat major, "Symphony of a Thousand"
+Mahler                  Symphony No. 8 in E flat major, "Symphony of a Thousand"
 Mahler                  Symphony No. 9
 Martin                  Concerto for Seven Wind Intruments, Timpani, Percussion and Strings
 Martin                  Etudes
@@ -163,7 +163,7 @@ Mozart                  Piano Concerto No. 23 in A major, K. 488
 Mozart                  Piano Concerto No. 26 in D major, K. 537, "Coronation"
 Mozart                  Requiem, K. 626
 Mozart                  Sinfonia concertante, K. 364
-Mozart                  Violin Concerto No. 1 in B-flat major, K. 207
+Mozart                  Violin Concerto No. 1 in B flat major, K. 207
 Mozart                  Violin Concerto No. 2 in D major, K. 211
 Mozart                  Violin Concerto No. 3 in G major, K. 216
 Mozart                  Violin Concerto No. 4 in D major, K. 218
