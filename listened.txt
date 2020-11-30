@@ -75,7 +75,6 @@ Brahms                  Ballades, Op. 10
 Brahms                  Double Concerto in A minor, Op. 102
 Brahms                  Fantasien, Op. 116
 Brahms                  Piano Concerto No. 1 in D minor, Op. 15
-Brahms                  Piano Concerto No. 1 in D minor, Op. 15
 Brahms                  Piano Concerto No. 2 in B flat major, Op. 83
 Brahms                  Piano Quartet No. 1 in G minor, Op. 25
 Brahms                  Symphony No. 1 in C minor, Op. 68
@@ -196,7 +195,6 @@ Ravel                   Gaspard de la nuit, M. 55
 Ravel                   Le tombeau de Couperin, M. 68
 Ravel                   Ma mère l'Oye, M. 60
 Ravel                   Piano Concerto for the Left Hand, M. 82
-Ravel                   Piano Concerto in G major, M. 83
 Ravel                   Piano Concerto in G major, M. 83
 Ravel                   Sonatine, M. 40
 Ravel                   String Quartet in F major, M. 35
