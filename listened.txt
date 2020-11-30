@@ -107,10 +107,10 @@ Debussy                 Children's Corner, CD 119
 Debussy                 Images I, CD 105
 Debussy                 Images II, CD 120
 Debussy                 String Quartet in G minor, Op. 10, CD 91
-Dvorak                  Cello Concerto in B minor, Op. 104
-Dvorak                  Romance for Violin and Orchestra in F minor, Op. 11, B. 39
-Dvorak                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
-Dvorak                  Violin Concerto in A minor, Op. 53, B. 108
+Dvořák                  Cello Concerto in B minor, Op. 104
+Dvořák                  Romance for Violin and Orchestra in F minor, Op. 11, B. 39
+Dvořák                  Symphony No. 9 in E minor, Op. 95, B. 178, "From the New World"
+Dvořák                  Violin Concerto in A minor, Op. 53, B. 108
 Elgar                   Cello Concerto in E minor, Op. 85
 Elgar                   Sea Pictures, Op. 37
 Elgar                   Violin Concerto in B minor, Op. 61
