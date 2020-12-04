@@ -2,6 +2,7 @@ Abril                   6 Violin Partitas
 Adams                   My Father Knew Charles Ives
 Adams                   The Dharma at Big Sur
 Albinoni                Adagio in G minor
+Albéniz                 Iberia
 Bach                    Brandenburg Concertos, BWV 1046-1051
 Bach                    Cello Suites, BWV 1007-1012
 Bach                    Concerto for Two Violins in D minor, BWV 1043
@@ -52,6 +53,7 @@ Beethoven               Piano Trio No. 3 in C minor, Op. 1/3
 Beethoven               Piano Trio No. 5 in D major, Op. 70/1, "Ghost"
 Beethoven               Piano Trio No. 6 in E flat major, Op. 70/2
 Beethoven               Piano Trio No. 7 in B flat major, Op. 97, "Archduke"
+Beethoven               Septet in E flat major, Op. 20
 Beethoven               String Quartets Nos. 11, 12, 13, 14, 15, 16
 Beethoven               Symphony No. 1 in C major, Op. 21
 Beethoven               Symphony No. 2 in D major, Op. 36
@@ -68,6 +70,7 @@ Beethoven               Violin Sonata No. 10 in G major, Op. 96
 Beethoven               Violin Sonata No. 9 in A major, Op. 47, "Kreutzer"
 Berg                    Violin Concerto, "To the memory of an angel"
 Bernstein               Serenade, after Plato's Symposium
+Biber                   Rosary Sonatas, "Mystery Sonatas", C. 90-105
 Boulez                  Sur incises
 Brahms                  2 Rhapsodies, Op. 79
 Brahms                  A German Requiem, Op. 45
@@ -87,6 +90,7 @@ Brahms                  Violin Sonata No. 3 in D minor, Op. 108
 Britten                 Violin Concerto, Op. 15
 Bruch                   Scottish Fantasy in E flat major, Op. 46
 Bruch                   Violin Concerto No. 1 in G minor, Op. 26
+Bruch                   Violin Concerto No. 2 in D minor, Op. 44
 Bruckner                Symphony No. 7 in E major, WAB 107
 Bruckner                Symphony No. 9 in D minor, WAB 109
 Chopin                  Ballades, Opp. 23/38/47/52
@@ -114,6 +118,7 @@ Dvořák                  Violin Concerto in A minor, Op. 53, B. 108
 Elgar                   Cello Concerto in E minor, Op. 85
 Elgar                   Sea Pictures, Op. 37
 Elgar                   Violin Concerto in B minor, Op. 61
+Gade                    Violin Concerto in D minor, Op. 56
 Glazunov                Violin Concerto in A minor, Op. 82
 Grieg                   Violin Sonata No. 1 in F major, Op. 8
 Haydn                   Keyboard Concerto No. 11 in D major, Hob. XVIII:11
@@ -130,6 +135,9 @@ Ives                    Violin Sonata No. 4, S. 63 / K. 2C3, "Children's Day at 
 Khatchaturian           Violin Concerto in D minor, Op. 46
 Korngold                Much Ado About Nothing Suite
 Korngold                Violin Concerto in D major, Op. 35
+Lalo                    Symphonie espagnole, Op. 21
+Lange-Müller            Violin Concerto in C major, Op. 69
+Langgaard               Violin Concerto, BVN 289
 Ligeti                  Cello Concerto
 Ligeti                  Piano Concerto
 Ligeti                  Violin Concerto
@@ -157,6 +165,8 @@ Messiaen                Quatuor pour la fin du temps
 Messiaen                Visions de l'Amen
 Meyer                   Violin Concerto
 Monteverdi              L'Orfeo, SV 318
+Mozart                  Clarinet Concerto in A major, K. 622
+Mozart                  Clarinet Quintet in A major, K. 581
 Mozart                  Piano Concerto No. 20 in D minor, K. 466
 Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
 Mozart                  Piano Concerto No. 23 in A major, K. 488
@@ -200,7 +210,9 @@ Ravel                   Sonatine, M. 40
 Ravel                   String Quartet in F major, M. 35
 Ravel                   Tzigane, M. 76, "Rhapsodie de concert"
 Ravel                   Valses nobles et sentimentales, M. 61
+Rodrigo                 Concierto de Aranjuez
 Saint-Saëns             Cello Concerto No. 1 in A minor, Op. 33
+Saint-Saëns             Violin Concerto No. 3 in B minor, Op. 61
 Satie                   3 Gymnopédies
 Satie                   3 Sarabandes
 Satie                   4 Ogives
@@ -245,7 +257,9 @@ Smyth                   Violin Sonata, Op. 7
 Spohr                   Violin Concerto No. 8 in A minor, Op. 47, "In modo di scena cantante"
 Strauss                 4 letzte Lieder, TrV 296, "Four Last Songs"
 Strauss                 5 Lieder, TrV 195
+Strauss                 The Blue Danube, Op. 314
 Strauss                 Violin Sonata in E flat major, Op. 18
+Strauss                 Wiener Blut, Op. 354
 Stravinsky              The Rite of Spring, "Le Sacre du printemps"
 Stravinsky              Violin Concerto in D major
 Szymanowski             Violin Concerto No. 1, Op. 35
@@ -257,3 +271,4 @@ Verdi                   Messa da requiem
 Vieuxtemps              Violin Concerto No. 4 in D minor, Op. 31
 Vieuxtemps              Violin Concerto No. 5 in A minor, Op. 37
 Vivaldi                 The Four Seasons
+Wieniawski              Violin Concerto No. 2 in D minor, Op. 22
