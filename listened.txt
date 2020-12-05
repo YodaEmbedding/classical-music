@@ -167,6 +167,7 @@ Meyer                   Violin Concerto
 Monteverdi              L'Orfeo, SV 318
 Mozart                  Clarinet Concerto in A major, K. 622
 Mozart                  Clarinet Quintet in A major, K. 581
+Mozart                  Piano Concerto No. 19 in F major, K. 459
 Mozart                  Piano Concerto No. 20 in D minor, K. 466
 Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
 Mozart                  Piano Concerto No. 23 in A major, K. 488
@@ -196,10 +197,12 @@ Prokofiev               Violin Sonata No. 2 in D major, Op. 94bis
 Pärt                    Tabula rasa
 Rachmaninoff            10 Preludes, Op. 23
 Rachmaninoff            13 Preludes, Op. 32
+Rachmaninoff            Isle of the Dead, Op. 29
 Rachmaninoff            Piano Concerto No. 1 in F sharp minor, Op. 1
 Rachmaninoff            Piano Concerto No. 2 in C minor, Op. 18
 Rachmaninoff            Piano Concerto No. 3 in D minor, Op. 30
 Rachmaninoff            Piano Concerto No. 4 in G minor, Op. 40
+Rachmaninoff            Symphonic Dances, Op. 45
 Rachmaninoff            Symphony No. 2 in E minor, Op. 27
 Ravel                   Gaspard de la nuit, M. 55
 Ravel                   Le tombeau de Couperin, M. 68
@@ -218,6 +221,7 @@ Satie                   3 Sarabandes
 Satie                   4 Ogives
 Satie                   6 Gnossiennes
 Satie                   Je te veux
+Scarlatti               Keyboard Sonatas (incomplete)
 Schnittke               Concerto grosso No. 5
 Schnittke               Concerto grosso No. 6
 Schnittke               Symphony No. 8
