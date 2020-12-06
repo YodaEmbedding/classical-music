@@ -204,6 +204,8 @@ Rachmaninoff            Piano Concerto No. 3 in D minor, Op. 30
 Rachmaninoff            Piano Concerto No. 4 in G minor, Op. 40
 Rachmaninoff            Symphonic Dances, Op. 45
 Rachmaninoff            Symphony No. 2 in E minor, Op. 27
+Rachmaninoff            Trio élégiaque No. 1 in G minor, TN ii/34
+Rachmaninoff            Trio élégiaque No. 2 in D minor, Op. 9
 Ravel                   Gaspard de la nuit, M. 55
 Ravel                   Le tombeau de Couperin, M. 68
 Ravel                   Ma mère l'Oye, M. 60
@@ -238,6 +240,8 @@ Schoenberg              String Quartet No. 3, Op. 30
 Schoenberg              String Quartet No. 4, Op. 37
 Schoenberg              Verklarte Nacht, Op. 4
 Schoenberg              Violin Concerto, Op. 36
+Schubert                4 Impromptus, Op. 90, D. 899
+Schubert                Piano Sonata No. 21 in B flat major, D. 960
 Schubert                String Quartet No. 13 in A minor, D. 804
 Schubert                String Quartet No. 14 in D minor, D. 810
 Schubert                String Quintet in C, D. 956
@@ -274,5 +278,6 @@ Vaughan-Williams        The Lark Ascending
 Verdi                   Messa da requiem
 Vieuxtemps              Violin Concerto No. 4 in D minor, Op. 31
 Vieuxtemps              Violin Concerto No. 5 in A minor, Op. 37
+Vivaldi                 La Stravaganza, Op. 4, "The eccentricity"
 Vivaldi                 The Four Seasons
 Wieniawski              Violin Concerto No. 2 in D minor, Op. 22
