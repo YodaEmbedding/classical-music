@@ -107,6 +107,7 @@ Copland                 Appalachian Spring
 Copland                 Billy the Kid
 Copland                 Rodeo
 Corelli                 Concerti grossi, Op. 6
+Debussy                 12 Études, CD 143
 Debussy                 Children's Corner, CD 119
 Debussy                 Images I, CD 105
 Debussy                 Images II, CD 120
@@ -141,6 +142,7 @@ Langgaard               Violin Concerto, BVN 289
 Ligeti                  Cello Concerto
 Ligeti                  Piano Concerto
 Ligeti                  Violin Concerto
+Liszt                   Hungarian Rhapsody No. 2, S. 244/2
 Liszt                   Piano Concerto No. 1 in E flat major, S. 124
 Liszt                   Piano Concerto No. 2 in A major, S. 125
 Liszt                   Piano Sonata in B minor, S. 178
@@ -172,6 +174,7 @@ Mozart                  Piano Concerto No. 20 in D minor, K. 466
 Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
 Mozart                  Piano Concerto No. 23 in A major, K. 488
 Mozart                  Piano Concerto No. 26 in D major, K. 537, "Coronation"
+Mozart                  Piano Sonata No. 10 in C major, K. 330/300h
 Mozart                  Requiem, K. 626
 Mozart                  Sinfonia concertante, K. 364
 Mozart                  Violin Concerto No. 1 in B flat major, K. 207
@@ -255,6 +258,7 @@ Schumann                Piano Concerto in A minor, Op. 54
 Schumann                Piano Sonata No. 2 in G minor, Op. 22
 Schumann                Violin Sonata No. 1 in A minor, Op. 105
 Schumann                Violin Sonata No. 2 in D minor, Op. 121
+Schumann                Études symphoniques, Op. 13
 Schumann, C.            Three Romances for Violin and Piano, Op. 22
 Shostakovich            Piano Concerto No. 1 in C minor, Op. 35
 Shostakovich            Three Violin Duets, Op. 97d
