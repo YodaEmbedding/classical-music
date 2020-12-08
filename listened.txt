@@ -205,10 +205,13 @@ Rachmaninoff            Piano Concerto No. 1 in F sharp minor, Op. 1
 Rachmaninoff            Piano Concerto No. 2 in C minor, Op. 18
 Rachmaninoff            Piano Concerto No. 3 in D minor, Op. 30
 Rachmaninoff            Piano Concerto No. 4 in G minor, Op. 40
+Rachmaninoff            Rhapsody on a Theme of Paganini, Op. 43
 Rachmaninoff            Symphonic Dances, Op. 45
 Rachmaninoff            Symphony No. 2 in E minor, Op. 27
 Rachmaninoff            Trio élégiaque No. 1 in G minor, TN ii/34
 Rachmaninoff            Trio élégiaque No. 2 in D minor, Op. 9
+Rachmaninoff            Variations on a Theme of Chopin, Op. 22
+Rachmaninoff            Variations on a Theme of Corelli, Op. 42
 Ravel                   Gaspard de la nuit, M. 55
 Ravel                   Le tombeau de Couperin, M. 68
 Ravel                   Ma mère l'Oye, M. 60
@@ -251,6 +254,7 @@ Schubert                String Quintet in C, D. 956
 Schubert                Symphony No. 3 in D, D. 200
 Schubert                Symphony No. 8 in B minor, D. 759, "Unfinished"
 Schubert                Winterreise, D. 911
+Schumann                Carnaval, Op. 9
 Schumann                Cello Concerto in A minor, Op. 129
 Schumann                Kinderszenen, Op. 15
 Schumann                Kreisleriana, Op. 16
@@ -284,4 +288,6 @@ Vieuxtemps              Violin Concerto No. 4 in D minor, Op. 31
 Vieuxtemps              Violin Concerto No. 5 in A minor, Op. 37
 Vivaldi                 La Stravaganza, Op. 4, "The eccentricity"
 Vivaldi                 The Four Seasons
+Weinberg                Symphony No. 2, Op. 30
+Weinberg                Symphony No. 21, Op. 152
 Wieniawski              Violin Concerto No. 2 in D minor, Op. 22
