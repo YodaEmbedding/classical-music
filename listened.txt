@@ -247,6 +247,8 @@ Schoenberg              String Quartet No. 4, Op. 37
 Schoenberg              Verklarte Nacht, Op. 4
 Schoenberg              Violin Concerto, Op. 36
 Schubert                4 Impromptus, Op. 90, D. 899
+Schubert                Piano Sonata No. 14 in A minor, Op. 143, D. 784
+Schubert                Piano Sonata No. 17 in D major, Op. 53, D. 850
 Schubert                Piano Sonata No. 21 in B flat major, D. 960
 Schubert                String Quartet No. 13 in A minor, D. 804
 Schubert                String Quartet No. 14 in D minor, D. 810
