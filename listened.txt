@@ -1,3 +1,4 @@
+Abrahamsen              Let Me Tell You
 Abril                   6 Violin Partitas
 Adams                   My Father Knew Charles Ives
 Adams                   The Dharma at Big Sur
@@ -207,6 +208,7 @@ Rachmaninoff            Piano Concerto No. 1 in F sharp minor, Op. 1
 Rachmaninoff            Piano Concerto No. 2 in C minor, Op. 18
 Rachmaninoff            Piano Concerto No. 3 in D minor, Op. 30
 Rachmaninoff            Piano Concerto No. 4 in G minor, Op. 40
+Rachmaninoff            Piano Sonata No. 2 in B flat minor, Op. 36
 Rachmaninoff            Rhapsody on a Theme of Paganini, Op. 43
 Rachmaninoff            Symphonic Dances, Op. 45
 Rachmaninoff            Symphony No. 2 in E minor, Op. 27
@@ -214,6 +216,7 @@ Rachmaninoff            Trio élégiaque No. 1 in G minor, TN ii/34
 Rachmaninoff            Trio élégiaque No. 2 in D minor, Op. 9
 Rachmaninoff            Variations on a Theme of Chopin, Op. 22
 Rachmaninoff            Variations on a Theme of Corelli, Op. 42
+Rachmaninoff            Études-tableaux, Op. 33
 Ravel                   Gaspard de la nuit, M. 55
 Ravel                   Le tombeau de Couperin, M. 68
 Ravel                   Ma mère l'Oye, M. 60
