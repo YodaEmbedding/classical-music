@@ -45,6 +45,7 @@ Bartók                  String Quartets Nos. 1-6, BB 52/75/93/95/110/119
 Bartók                  Violin Concerto No. 1, BB 48a
 Bartók                  Violin Concerto No. 2, BB 117
 Beach                   Violin Sonata, Op. 34
+Beethoven               Diabelli Variations, Op. 120
 Beethoven               Piano Concerto No. 1 in C major, Op. 15
 Beethoven               Piano Concerto No. 2 in B flat major, Op. 19
 Beethoven               Piano Sonatas
@@ -252,6 +253,7 @@ Schoenberg              String Quartet No. 4, Op. 37
 Schoenberg              Verklarte Nacht, Op. 4
 Schoenberg              Violin Concerto, Op. 36
 Schubert                4 Impromptus, Op. 90, D. 899
+Schubert                6 moments musicaux, Op. 94, D. 780
 Schubert                Piano Sonata No. 14 in A minor, Op. 143, D. 784
 Schubert                Piano Sonata No. 17 in D major, Op. 53, D. 850
 Schubert                Piano Sonata No. 21 in B flat major, D. 960
