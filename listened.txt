@@ -173,6 +173,8 @@ Meyer                   Violin Concerto
 Monteverdi              L'Orfeo, SV 318
 Mozart                  Clarinet Concerto in A major, K. 622
 Mozart                  Clarinet Quintet in A major, K. 581
+Mozart                  Fantasia No. 3 in D minor, K. 397/385g
+Mozart                  Fantasia No. 4 in C minor, K. 475
 Mozart                  Piano Concerto No. 19 in F major, K. 459
 Mozart                  Piano Concerto No. 20 in D minor, K. 466
 Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madigan"
