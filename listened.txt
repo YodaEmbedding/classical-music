@@ -82,6 +82,7 @@ Brahms                  Fantasien, Op. 116
 Brahms                  Piano Concerto No. 1 in D minor, Op. 15
 Brahms                  Piano Concerto No. 2 in B flat major, Op. 83
 Brahms                  Piano Quartet No. 1 in G minor, Op. 25
+Brahms                  Piano Quintet in F minor, Op. 34
 Brahms                  Symphony No. 1 in C minor, Op. 68
 Brahms                  Symphony No. 3 in F major, Op. 90
 Brahms                  Symphony No. 4 in E minor, Op. 98
