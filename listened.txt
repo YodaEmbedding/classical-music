@@ -23,6 +23,7 @@ Bach                    Partita for Keyboard No. 2 in C minor, BWV 826
 Bach                    Sinfonia in D major, BWV 1045
 Bach                    Sonata No. 3 in E major for Violin and Harpsichord, BWV 1016
 Bach                    Sonata No. 4 in C minor for Violin and Harpsichord, BWV 1017
+Bach                    The Well-Tempered Clavier, BWV 846-893
 Bach                    Toccata in C minor, BWV 911
 Bach                    Trio Sonata for Organ No. 3 in D minor, BWV 527
 Bach                    Trio Sonata for Organ No. 5 in C major, BWV 529
