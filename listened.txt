@@ -40,6 +40,7 @@ Barber                  Violin Concerto, Op. 14
 Bartók                  Piano Concerto No. 3, BB 127
 Bartók                  Rhapsody No. 1 for Violin and Orchestra, BB 94
 Bartók                  Rhapsody No. 2 for Violin and Orchestra, BB 96
+Bartók                  Romanian Folk Dances, BB 68
 Bartók                  Sonata for Solo Violin, BB 124
 Bartók                  String Octet in C major, Op. 7
 Bartók                  String Quartets Nos. 1-6, BB 52/75/93/95/110/119
@@ -71,6 +72,7 @@ Beethoven               Triple Concerto in C major, Op. 56
 Beethoven               Violin Concerto in D major, Op. 61
 Beethoven               Violin Sonata No. 10 in G major, Op. 96
 Beethoven               Violin Sonata No. 9 in A major, Op. 47, "Kreutzer"
+Berg                    Piano Sonata, Op. 1
 Berg                    Violin Concerto, "To the memory of an angel"
 Bernstein               Serenade, after Plato's Symposium
 Biber                   Rosary Sonatas, "Mystery Sonatas", C. 90-105
@@ -183,6 +185,7 @@ Mozart                  Piano Concerto No. 21 in C major, K. 467, "Elvira Madiga
 Mozart                  Piano Concerto No. 23 in A major, K. 488
 Mozart                  Piano Concerto No. 26 in D major, K. 537, "Coronation"
 Mozart                  Piano Sonata No. 10 in C major, K. 330/300h
+Mozart                  Piano Sonata No. 8 in A minor, K. 310/300d
 Mozart                  Requiem, K. 626
 Mozart                  Sinfonia concertante, K. 364
 Mozart                  Violin Concerto No. 1 in B flat major, K. 207
